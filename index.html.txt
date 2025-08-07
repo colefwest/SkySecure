@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SkySecure: Aviation Cyber Threat Tracker</title>
+
+  <!-- ✅ SEO Tags -->
+  <meta name="description" content="SkySecure monitors and explains cybersecurity threats in the aviation industry. Stay informed with real-time incidents, expert resources, and news." />
+  <meta name="keywords" content="aviation cybersecurity, cyber threats, airline safety, airport hacking, aviation security, cyber incidents, flight data protection" />
+  <meta name="author" content="SkySecure Team" />
+
+  <!-- 🌐 Social Media Preview (Open Graph) -->
+  <meta property="og:title" content="SkySecure: Aviation Cyber Threat Tracker" />
+  <meta property="og:description" content="Explore the latest cybersecurity challenges in aviation. Real-time incident tracking and expert resources." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://yourusername.github.io/skysecure-site" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>SkySecure</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Threat Tracker</a>
+      <a href="#">Resources</a>
+      <a href="#">News</a>
+      <a href="#">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Protecting the Skies from Cyber Threats</h2>
+      <p>SkySecure is your source for tracking and understanding cybersecurity risks in aviation. From GPS spoofing to airline data breaches, we help you stay informed.</p>
+    </section>
+
+    <section class="tracker">
+      <h3>Recent Cyber Incidents</h3>
+      <ul id="incident-list">
+        <li><strong>GPS Spoofing Near Major Airport</strong> (July 2025): Pilots reported false GPS signals during approach.</li>
+        <li><strong>Airline Reservation System Breach</strong> (June 2025): Hackers accessed customer data and disrupted bookings.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 SkySecure. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
